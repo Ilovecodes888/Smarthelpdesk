@@ -1,0 +1,1 @@
+"""Package marker for the Smart HelpDesk backend application."""
